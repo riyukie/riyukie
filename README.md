@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Riyukie</h1>
+<h1 align="center">Hi 👋, I'm ObscureEntity</h1>
 <h3 align="center">A developer who loves coding and playing games.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyukie&label=Profile%20views&color=0e75b6&style=flat" alt="riyukie" /> </p>
